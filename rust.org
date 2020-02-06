@@ -1,3 +1,8 @@
 * TODO Rust 程序设计语言学习 [100%]
 ** DONE 9. 错误处理
    CLOSED: [2019-04-30 Tue 17:43]
+* TODO 还未掌握的特性
+** TODO 4. Ownship
+** TODO 15. Smart Pointers
+** TODO 19. Advanced Features
+* DONE 已经掌握的特性

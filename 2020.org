@@ -1,0 +1,37 @@
+* TODO 完成 《Ramdajs 趣学指南》 编写 [0%]
+
+** TODO 0. 前言
+** TODO 1. 函数式编程概念介绍
+** TODO 2. Ramda 的设计理念
+** TODO 3. Ramda 官方网站使用说明
+** TODO 4. Ramda API 分类
+** TODO 5. Ramda 函数操作 [0/11]
+*** TODO 5.1 函数组合
+*** TODO 5.2 函数柯里化与部分调用
+*** TODO 5.3 声明式编程典范
+*** TODO 5.4 恒等函数与返回常量的函数
+*** TODO 5.5 函数调用
+*** TODO 5.6 错误处理
+*** TODO 5.7 函数缓存
+*** TODO 5.8 只执行一次的函数
+*** TODO 5.9 延迟求值
+*** TODO 5.10 异步处理
+** TODO 6. Ramda 函数派发机制
+** TODO 7. Transducer
+** TODO 8. Ramda 列表操作
+** TODO 9. Ramda 对象操作
+** TODO 10. Ramda 逻辑操作
+** TODO 11. Ramda 关系操作
+** TODO 12. Ramda 数学操作
+** TODO 13. Ramda 类型操作
+** TODO 14. Ramda 与范畴论
+
+* TODO org-mode 学习
+
+** TODO org-mode 快捷键使用
+
+* TODO 学习完成 the little schemer
+
+* TODO 学习完成 the seasoned schemer
+
+* TODO 学习 emacs lisp，初步能看懂
